@@ -10,6 +10,8 @@ public class test {
 		int puja=20;
 		String s1=passWord.encodePassword("PUJA");
 		System.out.println("value="+s1);
+		System.out.println("value1="+s1);
+		
 	}
 
 }
