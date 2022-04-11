@@ -11,6 +11,7 @@ public class test {
 		String s1=passWord.encodePassword("PUJA");
 		System.out.println("value="+s1);
 		System.out.println("value1="+s1);
+		System.out.println("value3="+s1);
 		
 	}
 
